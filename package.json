@@ -1,5 +1,5 @@
 {
-  "name": "npmpackagedemo",
+  "name": "packagedemo2",
   "version": "0.1.0",
   "description": "Ejemplo de mi primer package",
   "main": "dist/src/platzom.js",
